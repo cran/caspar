@@ -1,0 +1,53 @@
+\name{col2cov}
+\alias{col2cov}
+%- Also NEED an '\alias' for EACH other topic documented here.
+\title{
+HIV data distance function.
+}
+\description{
+HIV data distance function.  For internal use only.
+%%  ~~ A concise (1-5 lines) description of what the function does. ~~
+}
+\usage{
+col2cov(k, grp)
+}
+%- maybe also 'usage' for other objects documented here.
+\arguments{
+  \item{k}{
+%%     ~~Describe \code{k} here~~
+}
+  \item{grp}{
+%%     ~~Describe \code{grp} here~~
+}
+}
+\details{
+%%  ~~ If necessary, more details than the description above ~~
+}
+\value{
+%%  ~Describe the value returned
+%%  If it is a LIST, use
+%%  \item{comp1 }{Description of 'comp1'}
+%%  \item{comp2 }{Description of 'comp2'}
+%% ...
+}
+\references{
+%% ~put references to the literature/web site here ~
+}
+\author{
+%%  ~~who you are~~
+}
+\note{
+%%  ~~further notes~~
+}
+
+%% ~Make other sections like Warning with \section{Warning }{....} ~
+
+\seealso{
+%% ~~objects to See Also as \code{\link{help}}, ~~~
+}
+\examples{
+}
+% Add one or more standard keywords, see file 'KEYWORDS' in the
+% R documentation directory.
+% \keyword{ ~kwd1 }
+% \keyword{ ~kwd2 }% __ONLY ONE__ keyword per line
